@@ -10,9 +10,12 @@ body {
     font-family: "Inter", sans-serif;
 }
 
-.inter-font{
-    font-family: "inter", sans-serif;
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+
 }
+
 
 .raleway-font {
     font-family: "Raleway", sans-serif;
@@ -28,7 +31,7 @@ body {
 }
 
 .site-logo {
-    font-size: 34px;
+    font-size: 100px;
     font-weight: 900;
     color: #4E47FF;
     background-color: transparent;
